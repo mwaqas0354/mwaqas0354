@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mwaqas0354
-- 👀 I’m interested in programming
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning Networking
-- 💞️ I’m looking to collaborate passionate workers...
+- 💞️ I’m looking to collaborate with passionate workers...
 - 📫 How to reach me , mwaqas0354
 
 <!---
