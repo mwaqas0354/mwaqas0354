@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mwaqas0354
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Frontend-Development ,MERN , Networking
+- 🌱 I’m currently working as MERN Stack Development ,MERN , Networking
 - 💞️ I’m looking to collaborate with passionate workers...
 - 📫 How to reach me , mwaqas0354
 
